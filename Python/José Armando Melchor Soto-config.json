@@ -1,0 +1,23 @@
+{
+  "name": "José Armando Melchor Soto",
+  "clientId": "43de5c92fddf40a992d536c0ce2e9ac4",
+  "clientAuthType": "Confidential Client Application - Machine Authorization",
+  "owners": [
+    "ITESO_MX-1975235"
+  ],
+  "jwk": {
+    "kty": "RSA",
+    "use": "sig",
+    "alg": "RS256",
+    "kid": "4b65a15450a44578a6964b953fd74bd4",
+    "d": "agHiDfBwU7p5Nj1xtbaxIkP_oDp8UwLRDxHhQvAWvq1GeTqt2BziXFGsWNnd-EqP8X0hG-7ZF9TTb8PgLnBwBISWsbStpddSDHQ2W0XnqfbSPp-qgr22yXRi6XuXxeGyZLmcWvOeYeRvfxOgGVGchQvkSayJZJ5E1aqTjuhc7tmo4HQ6huGnT2LHuNUQqLVSr_lvQIIeVdMhrMZZdGNeghq4pb09ayDYQDiolWY-mmKvCnpfmaf9nEeSgUW71-Pjn030HfwF0o0cG-iQx3uztmhj3J3Qor4_gdYoiQsnEMUh-m1lPEeW-SrjoghJzqbd0hBdqt2fEzKiC5gLTungwQ",
+    "n": "zNdsDoLXD4J_eh4SMxaa9CxWI-JitbC-8zDDUdyBslDF3l_iMO6ZBfpzHKOSmYBZVtdKT6WU_R20IaEDyp_yY_iY0ft3XnLZtuvxgPu0Zcv6-ANzUoRf0uqv4keQqYKk1nScTzlnz_SJlRUoleMesgQ8qwPbiVeJzAEoE4imHJ5dsD3cAU6bQKsPWScM4Kj0vCikEsGpPBD9X_t6bo1rxyD34ItUKAFZ_DQKcXibg9fOLJGFFWpwDUnhIYQ3c90gUoKW6RFqsC1W5UgGzTvO-U3G8-0vBSPCq_9EVkPijF7nbu-kdFwxAQApk4YYc3ayWIiJ2c0QeDdP15YUmGqj0w",
+    "e": "AQAB",
+    "p": "8DLIKndEE50Ryntbs0trOj1EoTv2zVXqtCLuYTGL0esaexlDPfdYt72pzOVvKdqlpfAD1RWzeLlKB2fM8hZC9blP7Rm-o0oDtIV2t4zZTsFNZgKKaafoz0RAIpKKXEG7uHAoMLi8qiF_6pZscB_uUSlzJ1uPZsEn71QBii_WKPs",
+    "q": "2lEwh-FyQPs7IuctnUpwox35ACMjZC_tpjN65BRNB5EjqZxGCjstwYusn5DQ7JGbJ68uxxDGwx-q1pv5iNVBjkyeVU1f-XA5hoeD6_LoaNWDfIfxHi9_WXRS_t5L1dlDmrl2Y3JXIam26wwbOo4pNcpn9mkkUSexxYz0Sd2JKQk",
+    "dp": "ubAIXgvlbOQ4JLhIo8riEhvbOmoI2aRZ1PhMIIcU-CswRYm6GeVliGXvJp8X2NtWw3lQ_SHRpLpZKHBuV5guG5gu2bTVU5acVqn2pN8V_3QgSYQdTKCpsdGpYxC2Nav7WxIZf9DQyRUstkWjfuqwab4Jb5uwuFcKcFIY_qMMhJE",
+    "dq": "em2tWYYEHIzGzPv3iI2GPPNB_-G0pyp5iwqzj9QSnnu2FBee733gWvmJBLKhdwjwiYCkKt4tmJ7ZnyA4_5MYAETXRd7uQ2O73sWAJYFC9AdIhT126gaY1AF3yZW_0VzVnJ8E1R_53NbfzVAstNmkIpYvVu__fcNU3gP9uq6RjIE",
+    "qi": "sNjg1hD4kFajbHtA2aGEY2vEkr5e1C3iW-PBjzQ24N3UcBFDahAtgRJZG5VZ9OOEMPIBos4mYO1llApKLDgBW2lsbDXlICGwsYW6uq3ogryKkDK4H-Bw7YfeRt8m-rms6eGad27wblRJiCXSJ_ZnV-QjdXsc5d_NvAj8RdoWjbw"
+  },
+  "wellKnownUri": "https://auth.factset.com/.well-known/openid-configuration"
+}
